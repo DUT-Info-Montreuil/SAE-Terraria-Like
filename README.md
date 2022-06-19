@@ -12,6 +12,16 @@
 
 ---
 
+## Sommaire:
+- [Developpeurs sur le projet](https://github.com/NaulaN/SAE-Terraria-Like/blob/master/README.md#developpeurs-sur-le-projet)
+- [Progression](https://github.com/NaulaN/SAE-Terraria-Like/blob/master/README.md#progression)
+- [Qu'est-ce que c'est ce projet ?](https://github.com/NaulaN/SAE-Terraria-Like/blob/master/README.md#quest-ce-que-cest-ce-projet-)
+- [Concus avec](https://github.com/NaulaN/SAE-Terraria-Like/blob/master/README.md#concus-avec)
+- [Wiki (document utilisateur)](https://github.com/NaulaN/SAE-Terraria-Like/blob/master/README.md#wiki-document-utilisateur)
+- [Comment le lancer ?](https://github.com/NaulaN/SAE-Terraria-Like/blob/master/README.md#comment-le-lancer-)
+- [Sprites sheets](https://github.com/NaulaN/SAE-Terraria-Like/blob/master/README.md#sprites-sheets)
+- [Audios](https://github.com/NaulaN/SAE-Terraria-Like/blob/master/README.md#audio)
+
 ### Developpeurs sur le projet:
 - <code><img style="width: 35px; height: 35px" src="https://avatars.githubusercontent.com/u/67024770?v=4"/></code> [CHRZASZCZ Naulan](https://github.com/NaulaN)
 - <code><img style="width: 35px; height: 35px" src="https://avatars.githubusercontent.com/u/95338528?v=4"/></code> [NARCISO Tiago](https://github.com/almerion)
@@ -23,6 +33,8 @@
 - [X] [Sprint n°2](https://github.com/NaulaN/SAE-Terraria-Like/releases/tag/Sprint_n%C3%82%C2%B02)
 - [X] [Sprint n°3](https://github.com/NaulaN/SAE-Terraria-Like/releases/tag/Sprint_n%C2%B03)
 - [X] [Sprint n°4](https://github.com/NaulaN/SAE-Terraria-Like/releases/tag/Sprint_n%C2%B04)
+
+Suivre la progression [**ici**](https://github.com/users/NaulaN/projects/2)
 
 ### Qu'est-ce que c'est ce projet ?
 Ce projet est la SAE de fin d'année de notre premiere année de formation en BUT Informatique à l'IUT de Montreuil, nous devons réalisé un jeu vidéo qui reprend ou s'inspire du jeu Terraria. Nous avons +/- 1 Mois sous 4 Sprint à faire ce jeu.
